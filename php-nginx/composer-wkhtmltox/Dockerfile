@@ -22,6 +22,7 @@ RUN apt-get update && \
 		php-xml \
 		php-zip \
 		php-curl \
+		php-intl \
 		unzip \
 		xfonts-75dpi \
 		xfonts-base \
